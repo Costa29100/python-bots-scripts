@@ -1,4 +1,3 @@
-Collection of Python automation scripts (bots, scraping, APIs)
 # 🐍 Python Automation & Bot Projects
 
 **Welcome to my GitHub portfolio! ** 

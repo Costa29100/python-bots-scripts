@@ -9,7 +9,7 @@ All the scripts here are designed to help automate repetitive tasks, collect dat
 
 **🚀 Featured Projects**
 
-🔹 1. Web Scraping Tool
+🔹 **1. Web Scraping Tool**
 A simple but powerful Python script for extracting structured data from any website.  
 - **Tech stack:** `requests`, `BeautifulSoup`, `pandas`  
 - **Features:** CSV export, error handling, custom user-agent  
@@ -21,7 +21,7 @@ A bot that sends real-time alerts on Telegram.
 - **Features:** password-protected admin mode, instant notifications  
 - **Use case:** crypto alerts, website updates, lead tracking
 
-🔹** 3. API Automation Script**
+🔹**3. API Automation Script**
 Automates interactions with public APIs (ex: CoinGecko, Google, etc.)  
 - **Tech stack:** `requests`, `json`, `dotenv`  
 - **Features:** automatic refresh, data parsing, formatted output  

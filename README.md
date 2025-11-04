@@ -1,6 +1,7 @@
 # 🐍 Python Automation & Bot Projects
 
-**Welcome to my GitHub portfolio! ** 
+**Welcome to my GitHub portfolio!**
+
 I’m a **freelance Python developer** specialized in **web automation, scraping, and API integration**.  
 All the scripts here are designed to help automate repetitive tasks, collect data efficiently, and connect digital tools together.
 
@@ -34,7 +35,7 @@ Automates interactions with public APIs (ex: CoinGecko, Google, etc.)
 - 🌐 **Requests**, **BeautifulSoup**, **Selenium**
 - 🤖 **Telegram API**, **CoinGecko API**
 - 🧮 **Pandas**, **JSON**, **dotenv**
-- ⚙️ Automation & data pipelines
+- ⚙️ **Automation & data pipelines**
 
 ---
 

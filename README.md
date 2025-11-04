@@ -1,14 +1,13 @@
-# python-bots-scripts
 Collection of Python automation scripts (bots, scraping, APIs)
 # 🐍 Python Automation & Bot Projects
 
-Welcome to my GitHub portfolio!  
+**Welcome to my GitHub portfolio! ** 
 I’m a **freelance Python developer** specialized in **web automation, scraping, and API integration**.  
 All the scripts here are designed to help automate repetitive tasks, collect data efficiently, and connect digital tools together.
 
 ---
 
-🚀 Featured Projects
+**🚀 Featured Projects**
 
 🔹 1. Web Scraping Tool
 A simple but powerful Python script for extracting structured data from any website.  
@@ -16,13 +15,13 @@ A simple but powerful Python script for extracting structured data from any webs
 - **Features:** CSV export, error handling, custom user-agent  
 - **Use case:** data collection for business leads, market monitoring, etc.
 
-🔹 2. Telegram Alert Bot
+🔹 **2. Telegram Alert Bot**
 A bot that sends real-time alerts on Telegram.  
 - **Tech stack:** `python-telegram-bot`, `requests`  
 - **Features:** password-protected admin mode, instant notifications  
 - **Use case:** crypto alerts, website updates, lead tracking
 
-🔹 3. API Automation Script
+🔹** 3. API Automation Script**
 Automates interactions with public APIs (ex: CoinGecko, Google, etc.)  
 - **Tech stack:** `requests`, `json`, `dotenv`  
 - **Features:** automatic refresh, data parsing, formatted output  
@@ -30,7 +29,7 @@ Automates interactions with public APIs (ex: CoinGecko, Google, etc.)
 
 ---
 
-  🧰 Tools & Technologies
+  **🧰 Tools & Technologies**
 
 - 🐍 **Python 3.13**
 - 🌐 **Requests**, **BeautifulSoup**, **Selenium**
@@ -40,7 +39,7 @@ Automates interactions with public APIs (ex: CoinGecko, Google, etc.)
 
 ---
 
-   👨‍💻 About Me
+   **👨‍💻 About Me**
 
 Hi! I’m **Mickael**, a self-taught developer passionate about automation and AI-assisted coding.  
 I use tools like **ChatGPT** and **Claude** to speed up development and build smarter bots.  
@@ -48,7 +47,7 @@ Currently working as a **freelance Python developer**, I help individuals and bu
 
 ---
 
-   💼 Services I Offer
+   **💼 Services I Offer**
 
 ✅ Web Scraping & Data Extraction  
 ✅ Telegram / Discord / API Bots  
@@ -60,7 +59,7 @@ Currently working as a **freelance Python developer**, I help individuals and bu
 
 ---
 
-  📄 License
+  **📄 License**
 All projects are open-source for educational and portfolio purposes.  
 For commercial use, please contact me first.
 
